@@ -2657,9 +2657,6 @@ textarea {
 .not-clickable, .not-clickable[onclick] {
   cursor: default !important; }
 
-.letsGo-hide {
-  display: none !important; }
-
 .shadow-light {
   box-shadow: 0px 1px 3px 0px #A0A0A0 !important; }
 
